@@ -17,9 +17,8 @@ docker-image/
 └── karikku-app/
     └── index.html
 
-## Access
 
-http://localhost:8082
+
 
 ## Documentation
 
